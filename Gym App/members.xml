@@ -1,0 +1,14 @@
+<object-stream>
+  <list>
+    <Member>
+      <height>1.75</height>
+      <startingWeight>82.0</startingWeight>
+      <gender>M</gender>
+      <memberName>rob robson</memberName>
+      <memberId>100000</memberId>
+      <memberAddress>ballytruckle waterford</memberAddress>
+      <bodyWeight>0.0</bodyWeight>
+      <idealBodyWeight>0.0</idealBodyWeight>
+    </Member>
+  </list>
+</object-stream>
